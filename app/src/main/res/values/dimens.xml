@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="page_margin">22dp</dimen>
+    <dimen name="card_padding">20dp</dimen>
+    <dimen name="gap_small">8dp</dimen>
+    <dimen name="gap_medium">16dp</dimen>
+    <dimen name="gap_large">28dp</dimen>
+</resources>

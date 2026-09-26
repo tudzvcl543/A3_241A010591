@@ -1,0 +1,10 @@
+<resources>
+    <color name="ink">#18332F</color>
+    <color name="forest">#236B5B</color>
+    <color name="mint">#D8EFE4</color>
+    <color name="paper">#F6F8F2</color>
+    <color name="white">#FFFFFF</color>
+    <color name="secondary_text">#60736C</color>
+    <color name="line">#DCE5DC</color>
+    <color name="accent">#DEAB5C</color>
+</resources>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">A3 • Trần Tuấn Tú</string>
+    <string name="hero_eyebrow">LAB A3 · LẬP TRÌNH DI ĐỘNG</string>
+    <string name="hero_title">Không gian học tập</string>
+    <string name="hero_description">Giao diện thực hành Android với hai cách sắp xếp bố cục.</string>
+    <string name="login_heading">Chào mừng trở lại</string>
+    <string name="login_caption">Nhập thông tin để xem hồ sơ học tập của bạn</string>
+    <string name="student_id_hint">Mã số sinh viên</string>
+    <string name="password_hint">Mật khẩu</string>
+    <string name="remember_me">Ghi nhớ MSSV</string>
+    <string name="login_button">ĐĂNG NHẬP</string>
+    <string name="demo_notice">Đây là giao diện mô phỏng, chưa kết nối máy chủ.</string>
+    <string name="profile_caption">THẺ HỒ SƠ</string>
+    <string name="student_name">Trần Tuấn Tú</string>
+    <string name="student_id_value">241A010591</string>
+    <string name="student_id_label">MÃ SINH VIÊN</string>
+    <string name="course_value">INT4211</string>
+    <string name="course_label">HỌC PHẦN</string>
+    <string name="class_name">Lập trình di động - INT4211</string>
+    <string name="avatar_initials">TT</string>
+    <string name="layout_button">XEM BẢN CONSTRAINTLAYOUT  →</string>
+    <string name="constraint_title">Bố cục ConstraintLayout</string>
+    <string name="constraint_caption">Cùng thông tin, cách căn chỉnh khác</string>
+    <string name="constraint_explanation">Các thành phần được neo trực tiếp vào bố cục gốc bằng ràng buộc.</string>
+    <string name="back_button">←  VỀ MÀN HÌNH CHÍNH</string>
+    <string name="error_student_id">Hãy nhập MSSV</string>
+    <string name="error_password">Hãy nhập mật khẩu</string>
+    <string name="login_message">Đã nhập thông tin cho MSSV %1$s (mô phỏng)</string>
+</resources>
